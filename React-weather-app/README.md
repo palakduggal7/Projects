@@ -1,16 +1,5 @@
-<p align="center">
-<img src="https://www.htmlhints.com/image/react/reactWeatherApp.png" width="100%">
-</p>
+Weather App using Reactjs
 
-<p align="center">
-  View Complete <a href="https://www.htmlhints.com/article/how-to-create-weather-app-using-reactjs-with-current-location-search-city/93">Installation details</a>.
- </p>
- <p align="center">
-  View <a href="https://master.d2gxbs6vwhkz68.amplifyapp.com/">Live demo</a>.
- </p>
-
-## Setup
-
-```
-npm i && npm start
-```
+1. Developed a fully functional weather app that displays date-time, temperature, humidity, visibility, and
+wind speed
+2. Used the OpenWeather API to get the real-time weather for the user’s geolocation
